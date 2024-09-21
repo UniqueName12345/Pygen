@@ -178,7 +178,7 @@ def main():
 
 			cls()
 
-			run_file(f"examples/{examples[choice-1]}")
+			run_file(f"protogen_examples/{examples[choice-1]}")
 		else:
 			cls()
 			run_file(sys.argv[1])
