@@ -1,2 +1,6 @@
 # Pygen
-a thing
+Technically [there is already a Protogen interpreter for python](https://github.com/Joseppi007/Protogen/blob/main/protogen.py), but this one is way more user friendly. This is _Protogen_ we're talking about here though, so naturally it's not gonna be super user friendly. If you want user friendly, use [Python](https://www.python.org/) or [BASIC](http://www.quitebasic.com/) or literally any other language ([Well, not _literally_](https://esolangs.org/wiki/Malbolge) [any other language,](https://esolangs.org/wiki/BrainF) [but my point still stands](https://esolangs.org/wiki/Malbolge_Unshackled))
+
+--------------
+
+Pygen is an (unoffficial) [Protogen](https://esolangs.org/wiki/Protogen) interpreter made within the programming language Python. This one is significantly different from [the official one that already exists](https://github.com/Joseppi007/Protogen/blob/main/protogen.py) because it doesn't _require_ you to enter in a path - you can use the standard example programs just fine.
